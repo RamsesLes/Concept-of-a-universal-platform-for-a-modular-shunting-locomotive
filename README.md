@@ -164,5 +164,3 @@ Automachinist System – NIIAS
 | Locomotive control panel   | AVP Technology           | AVP Technology | AVP Technology | AVP Technology                    | AVP Technology | AVP Technology |
 | «Automotive Driver» System | NIIAS                    | NIIAS          | NIIAS          | NIIAS                             | NIIAS          | NIIAS          |
 
-
-## Thank you for your attention
