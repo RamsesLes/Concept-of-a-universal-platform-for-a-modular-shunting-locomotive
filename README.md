@@ -69,7 +69,8 @@ The basic version of the locomotive will include a diesel generator power plant,
 A fuel tank is mounted under the mainframe.
 
 The frame will house modules—the powertrain, cooling system, equipment, and cab.
-![[Pasted image 20260613213019.png]]
+
+<img width="902" height="468" alt="Pasted image 20260613213019" src="https://github.com/user-attachments/assets/fb484967-79b7-445d-851b-bd4543a6abed" />
 
 
 
@@ -95,7 +96,8 @@ Equipment module – includes a compressor, a cooling system for traction asynch
 
 Current collector – additionally, high-voltage devices are placed in the equipment module to ensure the operation of the locomotive from the contact network.
 
-![[Pasted image 20260613213140.png]]
+<img width="871" height="470" alt="Pasted image 20260613213140" src="https://github.com/user-attachments/assets/c83ab451-7b8e-4927-9e8d-889761254b4d" />
+
 
 
 ## Unified locomotive platform. Locomotive control
@@ -108,14 +110,16 @@ Locomotive control can be implemented in three different ways, depending on cust
 
 3. "Automotive Driver" System. This system allows one or more locomotives to be controlled from a single control station. This reduces crew changeover time and reduces the number of drivers (since a single depot driver can control the entire fleet).
 
-![[Pasted image 20260613213215.png]]
+<img width="777" height="455" alt="Pasted image 20260613213215" src="https://github.com/user-attachments/assets/74f54b13-1cd1-464b-a17e-4e6cd561517c" />
+
 
 ## Scalability
 
 To ensure traction performance, the locomotive can operate alone or in tandem with several other locomotives. Locomotives can be coupled and operated using a multiple-unit system. This allows for the necessary traction force to be generated for shunting operations.
 
 The train's dispatcher will connect the pneumatic lines and electrical harnesses. Automation is also possible, with a manipulator mounted on the locomotive's frame connecting the locomotive systems to one another.
-![[Pasted image 20260613213240.png]]
+<img width="936" height="327" alt="Pasted image 20260613213240" src="https://github.com/user-attachments/assets/5bae4bf3-32e0-4159-9299-0e44a8c5475a" />
+
 
 
 ## Components for shunting locomotives. Equipment
